@@ -8,9 +8,9 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Raul Alexander Marcial Villanueva Tello',
+    subtitle: 'Egresado de la Facultad de Ciencias Fisicas en la UNMSM.',
+    description: 'Me interesa la relacion de la programacion con la matematica y la fisica.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
