@@ -3,17 +3,17 @@ import hero from '../assets/images/logo.png';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://RAMVT02.github.io',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Raul Villanueva'
     },
     title: 'Raul Alexander Marcial Villanueva Tello',
     subtitle: 'Egresado de la Facultad de Ciencias Fisicas en la UNMSM.',
     description: 'Me interesa la relacion de la programacion con la matematica y la fisica.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/preview.png',
+        alt: 'Imagen de preview para compartir'
     },
     headerNavLinks: [
         {
@@ -67,10 +67,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola, Bienvenido a mi portafolio profesional!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "Egresado de la carrera de Física en la UNMSM, con experiencia en el campo laboral de la metrología y proyectos de investigación. Sólida formación en programación, matemáticas avanzadas y física. Destaco por mi capacidad de adaptabilidad, pensamiento crítico, trabajo en equipo y resiliencia.",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Logo de mis iniciales'
         },
         actions: [
             {
