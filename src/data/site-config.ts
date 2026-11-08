@@ -1,5 +1,6 @@
 import avatar from '../assets/images/foto.PNG';
 import hero from '../assets/images/logo.png';
+import preview from '../../public/preview.PNG';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -12,7 +13,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Egresado de la Facultad de Ciencias Fisicas en la UNMSM.',
     description: 'Me interesa la relacion de la programacion con la matematica y la fisica.',
     image: {
-        src: '/preview.png',
+        src: preview,
         alt: 'Imagen de preview para compartir'
     },
     headerNavLinks: [
